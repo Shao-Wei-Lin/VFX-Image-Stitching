@@ -1,7 +1,7 @@
 # Readme
 
 ### Overview
-This is an implementation of creating a panoramic image from multiple images with overlapping contents.
+This is an implementation of creating a panoramic image from multiple images with overlapping contents. Our sample images are put in the 'pic_1' folder.
 
 ### Environment 
 
