@@ -1,5 +1,8 @@
 # Readme
 
+### Overview
+This is an implementation of creating a panoramic image from multiple images with overlapping contents.
+
 ### Environment 
 
 - numpy == 1.18.2
